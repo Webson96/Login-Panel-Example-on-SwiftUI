@@ -1,4 +1,4 @@
-# Login-Panel-Example-on-SwiftUI
+# Login Panel
 SwiftUI Login Panel Example
 
 
